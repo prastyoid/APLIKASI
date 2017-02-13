@@ -1,0 +1,23 @@
+UNTUK SINGLE USER (PC)
+1. setelah install aplikasi ini, klik "setdata.exe", 
+   kemudian klik textbox dan arahkan ke lokasi database, 
+   kemudian tekan tombol disebelah kanan
+
+2. untuk menjalankan aplikasi klik "sis.exe"
+
+UNTUK MULTI USER (LEBH DARI 1 PC)
+1. setelah install aplikasi ini, klik "setdata.exe", 
+   kemudian klik textbox dan arahkan ke lokasi database... 
+
+   contoh : \\PCsaya\aplikasi\Informasipenempatankerja.mdb
+            
+            bukan...
+            
+            c:\aplikasi\Informasipenempatankerja.mdb
+          
+   
+2. share folder aplikasi
+
+3. untuk user pada PC lain, cukup membuat shortcut "sis.exe" dari 
+   folder yang sudah di share pada PC (yang sudah dijadikan server) 
+
